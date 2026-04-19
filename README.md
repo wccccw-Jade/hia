@@ -147,10 +147,10 @@ We appreciate all contributions, from reporting bugs and improving documentation
 
 Thanks to all the amazing contributors who have helped improve this project!
 
-| Avatar | Name | GitHub | Role | Contributions | PR(s) | Notes |
-|--------|------|--------|------|---------------|-------|-------|
-| <img src="https://github.com/harshhh28.png" width="50px" height="50px" alt="harshhh28 avatar"/> | Harsh Gajjar | [harshhh28](https://github.com/harshhh28) | Project Creator & Maintainer | Core implementation, Documentation | N/A | Lead Developer |
-| <img src="https://github.com/gaurav98095.png" width="50px" height="50px" alt="gaurav98095 avatar"/> | Gaurav | [gaurav98095](https://github.com/gaurav98095) | Contributor | DB Schema, bugs | [#1](https://github.com/harshhh28/hia/pull/1), [#5](https://github.com/harshhh28/hia/pull/5), [#6](https://github.com/harshhh28/hia/pull/6), [#7](https://github.com/harshhh28/hia/pull/7) | Database Design, bugs |
+| Avatar                                                                                                  | Name         | GitHub                                     | Role                         | Contributions                      | PR(s)                                                                                                                                                                          | Notes                 |
+| ------------------------------------------------------------------------------------------------------- | ------------ | ------------------------------------------ | ---------------------------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------- |
+| `<img src="https://github.com/harshhh28.png" width="50px" height="50px" alt="harshhh28 avatar"/>`     | Harsh Gajjar | [harshhh28](https://github.com/harshhh28)     | Project Creator & Maintainer | Core implementation, Documentation | N/A                                                                                                                                                                            | Lead Developer        |
+| `<img src="https://github.com/gaurav98095.png" width="50px" height="50px" alt="gaurav98095 avatar"/>` | Gaurav       | [gaurav98095](https://github.com/gaurav98095) | Contributor                  | DB Schema, bugs                    | [#1](https://github.com/harshhh28/hia/pull/1), [#5](https://github.com/harshhh28/hia/pull/5), [#6](https://github.com/harshhh28/hia/pull/6), [#7](https://github.com/harshhh28/hia/pull/7) | Database Design, bugs |
 
 <!-- To future contributors: Your profile will be added here when your PR is merged! -->
 
@@ -161,3 +161,9 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 ## 🙋‍♂️ Author
 
 Created by [Harsh Gajjar](https://harshgajjar.vercel.app)
+
+## My Run:
+
+source .venv/bin/python
+
+streamlit run src/main.py
